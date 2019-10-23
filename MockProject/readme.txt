@@ -1,9 +1,9 @@
 Components:
-1. Header Componnet:
+1. Header Componet:
     Authorable logo and primary links
     multifield primary link (use of WCMUsePojo and bean class)
     Sublinks are links of child pages of primary links respectively (use of WCMUsePojo and bean class)
-    required fileds
+    required fields
     validation of image and links via rootPath property
     use of clientlib
     
